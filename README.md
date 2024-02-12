@@ -1,4 +1,4 @@
-# LIfeWay_App
+# LifeWay_App
 
 ## Description
 
